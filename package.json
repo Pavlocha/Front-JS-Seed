@@ -1,7 +1,7 @@
 {
-  "name": "personal-website-v2",
+  "name": "front-js-seed",
   "version": "1.0.0",
-  "description": "Personal Website",
+  "description": "JavaScript Seed application with Lint/Prettier/Parcel",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
